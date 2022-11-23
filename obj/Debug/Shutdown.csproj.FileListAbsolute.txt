@@ -1,0 +1,8 @@
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\bin\Debug\Shutdown.exe.config
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\bin\Debug\Shutdown.exe
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\bin\Debug\Shutdown.pdb
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\obj\Debug\Shutdown.csproj.AssemblyReference.cache
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\obj\Debug\Shutdown.csproj.SuggestedBindingRedirects.cache
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\obj\Debug\Shutdown.csproj.CoreCompileInputs.cache
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\obj\Debug\Shutdown.exe
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\obj\Debug\Shutdown.pdb

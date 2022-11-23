@@ -1,0 +1,8 @@
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\bin\x64\Release\Outro.exe.config
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\bin\x64\Release\Outro.exe
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\bin\x64\Release\Outro.pdb
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\obj\x64\Release\Shutdown.csproj.AssemblyReference.cache
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\obj\x64\Release\Shutdown.csproj.SuggestedBindingRedirects.cache
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\obj\x64\Release\Shutdown.csproj.CoreCompileInputs.cache
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\obj\x64\Release\Outro.exe
+C:\Users\samzy\Documents\iLoveHerV2\Shutdown\obj\x64\Release\Outro.pdb
