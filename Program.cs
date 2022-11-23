@@ -63,7 +63,7 @@ namespace Shutdown
                 Console.Title = "Outro - Setup";
                 Console.WriteLine("Setting up! (This only happens once)");
                 WebClient webby = new WebClient();
-                webby.DownloadFile("https://github.com/YungSamzy/virus/raw/main/outrov3.wav", @"C:\Users\Public\goofyahh.wav");
+                webby.DownloadFile("https://github.com/YungSamzy/outro/raw/main/outrov3.wav", @"C:\Users\Public\goofyahh.wav");
                 Console.Clear();
             }
         }
